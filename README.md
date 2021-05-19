@@ -1,5 +1,5 @@
 # Battleship-Game
-Python based Battleship Game of ship size 5 with limited functinalities.
+Python based Battleship Game of ship size 5 with limited functionalities.
 
 # Run the Battleship_Game.py on the terminal.
 # This game will generate a single ship.
